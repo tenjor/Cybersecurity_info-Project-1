@@ -1,39 +1,21 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Cybersecurity Informational Brochure Website
 
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+##### Goal: My goal was to create an informational website about the Cybersecurity industry and how to get into this field using research. I want my website to target an audience that are curious about the industry and are willing to obtain more knowledge about Cybersecurity. The website will detail the history and future of the field. A form will also be included that will ask various questions to see if Cybersecurity would be the right career for you
 
 ---
 
-Happy coding!
+# Index
+
+##### For my index section, I wanted to create a very simple UI design that didn't overwhelm the user with a lot of information at once. Since Cybersecurity is a very broad topic that involves knowing a lot of things at a proficient level, it was important to design the website in such a way that made the user be curious and want to click on various elements if they would like to know more information
+
+---
+
+# History
+
+##### The history section, by far, has the most information to read and digest on the website and will require the most research on my part. I feel that for the website to be cohesive, I needed to add a big informational piece about Cybersecurity and why it is important in the modern world which will, in turn, lead to my FORM.html inquiry
+
+---
+
+# Form
+
+##### The form I include in the website will ask various questions that should leave the user asking themselves "Is this field really for me or not?". The questions I managed to come up with are listed as follows
